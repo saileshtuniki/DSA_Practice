@@ -12,7 +12,7 @@ public class absoluteValue {
     }
     public static void main(String[] args) {
 
-        int N = -6;
+        int N = 2;
 
         findAbsoluteVal(N);
     }
